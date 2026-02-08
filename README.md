@@ -12,6 +12,7 @@
 - **Flutter**: Enthusiastic developer building applications with **Provider** and custom UI designs.
 - **Laravel**: 3 months of experience developing RESTful APIs, task management systems, and CMS projects.
 - **Django**: Beginner-level experience exploring web frameworks and backend development.
+- **Docker**: Begineer-level hands on
 - **React**: Experience building interfaces with **Vite**.
 
 ### **Programming Languages**
